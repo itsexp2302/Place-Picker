@@ -1,5 +1,1 @@
-For running the application :
-npm i
-npm run dev
-cd backend
-node app.js
+Simple React Application for Place Picker using Geolocation APIs
